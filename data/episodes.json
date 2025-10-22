@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "animeId": 1,
+        "episodeNumber": 1,
+        "title": "Герой щита",
+        "kodikUrl": "https://kodik.info/video/12345",
+        "kodikCode": "12345"
+    },
+    {
+        "id": 2,
+        "animeId": 1,
+        "episodeNumber": 2,
+        "title": "Рапсодия ужаса",
+        "kodikUrl": "https://kodik.info/seria/12346",
+        "kodikCode": "12346"
+    },
+    {
+        "id": 3,
+        "animeId": 2,
+        "episodeNumber": 1,
+        "title": "Проклятый дух",
+        "kodikUrl": "https://kodik.info/embed/12347",
+        "kodikCode": "12347"
+    }
+]
